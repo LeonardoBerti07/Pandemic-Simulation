@@ -1,7 +1,5 @@
 # Pandemic Simulation
-This is the simulation of a pandemic, it is not going to be a reliable or scientific simulation. 
-
-I did it in my first year of university so is is very basic and naive, I keep it more as a memoory than anything else.
+This is the simulation of a pandemic, it is not going to be a reliable or scientific simulation. I did it in my first year of university to train so is very basic and naive, I keep it more as a memory than anything else.
 
 There are 3 java class Project/src/Menù.java, Project/src/Mondo.java, Project/src/Malattia.java.
 
